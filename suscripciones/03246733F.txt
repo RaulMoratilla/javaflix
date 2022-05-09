@@ -1,0 +1,9 @@
+******TICKET DE SUSCRIPCIÓN******
+
+Nombre cliente: Elia Vela Sanz
+DNI: 03246733F
+Correo: elia.v@gmail.com
+Tarjeta: 7854215487215487
+Fecha de compra: 8/6/2021
+Tipo de suscripción: PREMIUM
+Vencimiento de la suscripción: 8/7/2021

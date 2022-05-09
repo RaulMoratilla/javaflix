@@ -1,0 +1,9 @@
+******TICKET DE SUSCRIPCIÓN******
+
+Nombre cliente: Abel López Martínez
+DNI: 03215951E
+Correo: abel.l@gmail.com
+Tarjeta: 1212343456567878
+Fecha de compra: 7/6/2021
+Tipo de suscripción: ESTANDAR
+Vencimiento de la suscripción: 7/7/2021

@@ -1,0 +1,9 @@
+******TICKET DE SUSCRIPCIÓN******
+
+Nombre cliente: Antonio Miguel Trallero Arryo
+DNI: 03208154E
+Correo: antonio.trallero@gmail.com
+Tarjeta: 4758689747583247
+Fecha de compra: 31/5/2021
+Tipo de suscripción: BASICO
+Vencimiento de la suscripción: 31/6/2021

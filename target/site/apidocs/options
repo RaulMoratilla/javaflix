@@ -1,0 +1,24 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'15'
+-sourcepath
+'C:/Users/Raul/Desktop/Ingeniería Informática/Segundo Cuatri/Programación/Segundo examen/Examen/javaflix/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Raul/Desktop/Ingeniería Informática/Segundo Cuatri/Programación/Segundo examen/Examen/javaflix/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'javaflix 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/15/docs/api' 'C:/Users/Raul/Desktop/Ingeniería Informática/Segundo Cuatri/Programación/Segundo examen/Examen/javaflix/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'javaflix 1.0-SNAPSHOT API'

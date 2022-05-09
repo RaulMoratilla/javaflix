@@ -1,0 +1,9 @@
+******TICKET DE SUSCRIPCIÓN******
+
+Nombre cliente: Benito Pérez Gámez
+DNI: 03215954W
+Correo: benito.p@gmail.com
+Tarjeta: 1425361425361425
+Fecha de compra: 8/6/2021
+Tipo de suscripción: BASICO
+Vencimiento de la suscripción: 8/7/2021

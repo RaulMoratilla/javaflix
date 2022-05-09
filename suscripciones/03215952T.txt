@@ -1,0 +1,9 @@
+******TICKET DE SUSCRIPCIÓN******
+
+Nombre cliente: Raúl Moratilla Núñez
+DNI: 03215952T
+Correo: raul.m@gmail.com
+Tarjeta: 1111222233334444
+Fecha de compra: 7/6/2021
+Tipo de suscripción: PREMIUM
+Vencimiento de la suscripción: 7/7/2021

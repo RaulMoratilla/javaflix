@@ -1,0 +1,9 @@
+******TICKET DE SUSCRIPCIÓN******
+
+Nombre cliente: Guillermo Moratilla Núñez
+DNI: 03215953R
+Correo: guille.m@gmail.com
+Tarjeta: 4758694758691425
+Fecha de compra: 8/6/2021
+Tipo de suscripción: ESTANDAR
+Vencimiento de la suscripción: 8/7/2021

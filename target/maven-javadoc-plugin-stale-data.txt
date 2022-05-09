@@ -1,0 +1,71 @@
+@options
+@argfile
+-classpath
+'C:/Users/Usuario/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE122/AbsoluteLayout-RELEASE122.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'15'
+-sourcepath
+'C:/Users/Usuario/Desktop/javaflix/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Usuario/Desktop/javaflix/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'javaflix 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/15/docs/api' 'C:/Users/Usuario/Desktop/javaflix/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'javaflix 1.0-SNAPSHOT API'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/bibliotecas/BibGestionDatos.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/bibliotecas/BibValidar.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/bibliotecas/BusquedaOrdenacion.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/javaflix/JavaFlixMain.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/objetos/Administrador.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/objetos/Capitulo.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/objetos/Cliente.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/objetos/Contenido.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/objetos/Pelicula.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/objetos/Serie.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/objetos/Suscripcion.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/objetos/TarjetaCredito.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/objetos/Usuario.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/pantallas/AdministracionContenidos.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/pantallas/AdministracionUsuarios.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/pantallas/CrearModificarPelicula.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/pantallas/CrearModificarSerie.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/pantallas/InicioSesion.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/pantallas/JavaFlixAdministrador.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/pantallas/JavaFlixCliente.java'
+'C:/Users/Usuario/Desktop/javaflix/src/main/java/pantallas/Registro.java'
+C:\Users\Usuario\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE122\AbsoluteLayout-RELEASE122.jar = 1622921305011
+C:\Users\Usuario\Desktop\javaflix\src\main\java = 1623098061804
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\allclasses-index.html = 1623107050257
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\allpackages-index.html = 1623107050260
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\constant-values.html = 1623107049929
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\deprecated-list.html = 1623107050180
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\element-list = 1623107049869
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\help-doc.html = 1623107050268
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\index-all.html = 1623107050246
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\index.html = 1623107050189
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\jquery-ui.overrides.css = 1623107050312
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\member-search-index.js = 1623107050242
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\module-search-index.js = 1623107050239
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\overview-summary.html = 1623107050262
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\overview-tree.html = 1623107050175
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\package-search-index.js = 1623107050240
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\script.js = 1623107050276
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\search.js = 1623107050279
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\serialized-form.html = 1623107050010
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\stylesheet.css = 1623107050274
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\tag-search-index.js = 1623107050244
+C:\Users\Usuario\Desktop\javaflix\target\site\apidocs\type-search-index.js = 1623107050241
